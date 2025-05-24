@@ -1,6 +1,6 @@
 # Automatic Dynamic Braking System
 
-The Automatic Dynamic braking system is an effective intelligent vehicle safety system for avoiding rear-end types of collisions by automatically applying the brakes of the vehicles.
+The [Automatic Dynamic braking system](https://yashjogani.github.io/Automatic-Dynamic-Braking-System/) is an effective intelligent vehicle safety system for avoiding rear-end types of collisions by automatically applying the brakes of the vehicles.
 
 - It can identify when a possible collision is about to occur and responds by autonomously activating the brakes to slow a vehicle prior to impact or bring it to a stop to avoid a collision.
 - Dynamically adjust braking power for ride comfort and safety of the passengers.
